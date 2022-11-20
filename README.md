@@ -1,4 +1,4 @@
 # C++ Basics Yandex Academy Tasks
-Tasks from the Yandex handbook on the basics of C++
+Tasks from the Yandex Academy handbook on C++ Basics
 
 https://academy.yandex.ru/handbook/cpp
