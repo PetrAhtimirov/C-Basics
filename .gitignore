@@ -31,8 +31,8 @@
 *.out
 *.app
 
-#Custom
+# Custom
 /bin
 /obj
-C-Basics.cpb
+C-Basics.cbp
 *.depend
