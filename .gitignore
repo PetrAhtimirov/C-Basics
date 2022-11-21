@@ -36,3 +36,4 @@
 /obj
 C-Basics.cbp
 *.depend
+*.layout
